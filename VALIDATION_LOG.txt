@@ -1,0 +1,5 @@
+[OK] Python syntax: ui-python/civitas_ui.py
+[OK] Rust main exists
+[OK] Rust structs exist
+[OK] No prohibited feature words
+[SKIP] cargo check: cargo no disponible en este entorno

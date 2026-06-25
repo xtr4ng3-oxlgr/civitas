@@ -1,0 +1,5 @@
+Hola, el pago es al alias ejemplo.seguro.mp
+Mandame comprobante al +54 291 555 0199
+Link: https://pagos-seguros.example.invalid/checkout
+Total: ARS 45.000,00
+Correo: vendedor.demo@example.invalid

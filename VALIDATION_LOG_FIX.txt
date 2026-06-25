@@ -1,0 +1,3 @@
+[OK] Fix aplicado: se renombró CivitasApp.log() a CivitasApp.set_log().
+[OK] Motivo: Textual usa self.log internamente y la función local rompía app_prelude().
+[OK] Archivo corregido: ui-python/civitas_ui.py
