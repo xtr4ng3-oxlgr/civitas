@@ -1,5 +1,8 @@
 # CIVITAS
 
+<img width="1672" height="941" alt="civitas" src="https://github.com/user-attachments/assets/86cb09df-7351-4dbe-bd07-1c51e3bfe25d" />
+
+
 **CIVITAS** es una plataforma local de evidencia digital e inteligencia de estafas diseñada para organizar reportes ciudadanos, preservar evidencia, extraer entidades, construir líneas temporales, vincular indicadores y generar informes estructurados.
 
 El proyecto utiliza un núcleo en **Rust** para la lógica principal y una interfaz visual en **Python** para operar el sistema desde una cabina local.
