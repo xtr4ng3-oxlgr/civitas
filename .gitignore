@@ -1,0 +1,27 @@
+# Rust
+/core-rust/target
+Cargo.lock.bak
+**/*.rs.bk
+
+# Python
+__psycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+
+.idea/
+# OS
+.DS_Store
+Thumbs.db
+
+# Windows build output
+/build_windows/dist/
+/build_windows/build/
+
+# Local dev validation logs (not for public repo)
+VALIDATION_LOG.txt
+VALIDATION_LOG_FIX.txt
