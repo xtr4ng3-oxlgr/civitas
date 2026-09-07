@@ -1,5 +1,5 @@
 # CIVITAS
-
+![Build](https://github.com/xtr4ng3-oxlgr/civitas/actions/workflows/build.yml/badge.svg)
 <img width="1672" height="941" alt="civitas" src="https://github.com/user-attachments/assets/a6226fd1-6e56-48ad-8ebf-2de3f972bc15" />
 
 **CIVITAS** es una plataforma local de evidencia digital e inteligencia de estafas diseñada para organizar reportes ciudadanos, preservar evidencia, extraer entidades, construir líneas temporales, vincular indicadores y generar informes estructurados.
