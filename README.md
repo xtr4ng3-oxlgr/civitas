@@ -1,7 +1,6 @@
 # CIVITAS
 
-<img width="1672" height="941" alt="civt" src="https://github.com/user-attachments/assets/bc11b5c6-6322-4762-b5ee-b2b436ffb357" />
-
+<img width="1672" height="941" alt="civitas" src="https://github.com/user-attachments/assets/a6226fd1-6e56-48ad-8ebf-2de3f972bc15" />
 
 **CIVITAS** es una plataforma local de evidencia digital e inteligencia de estafas diseñada para organizar reportes ciudadanos, preservar evidencia, extraer entidades, construir líneas temporales, vincular indicadores y generar informes estructurados.
 
@@ -205,7 +204,7 @@ No debe usarse para acusar sin verificación humana.
 
 ## # Licencia
 
-<img width="300" height="159" alt="giphy (25)" src="https://github.com/user-attachments/assets/021720ff-3aec-4916-9a93-25d47afd7d97" />
+<img width="300" height="159" alt="xtr4ng3" src="https://github.com/user-attachments/assets/b8fd9c7c-b65d-4c2a-992f-14cf998b8281" />
 
 **xtr4ng3**
 
